@@ -45,3 +45,12 @@ the code in the last example.
             console.log( resp );
           });
 
+    What data type is JSON?
+
+    STR
+
+    What is something to be cautious of when programming with Asynchronous commands like AJAX?
+
+    Waiting for the command to complete to execute code further that requires the action to be completed.
+
+    
